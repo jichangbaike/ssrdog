@@ -68,7 +68,9 @@ https://finalto.xyz/UKgLIq
 
 - 日常办公  
 - 视频流媒体播放  
-- AI 工具长时间在线使用  
+- AI 工具长时间在线使用
+
+<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/refs/heads/main/9537.png" alt="ssrdog">
 
 ---
 
