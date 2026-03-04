@@ -92,7 +92,7 @@ https://finalto.xyz/UKgLIq
 - 视频流媒体播放  
 - AI 工具长时间在线使用
 
-<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/images/refs/heads/main/ssrdog-test-20260304.png" alt="ssrdog 测试图">
+<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/refs/heads/main/images/ssrdog-test-20260304.png" alt="ssrdog 测试图">
 
 ---
 
