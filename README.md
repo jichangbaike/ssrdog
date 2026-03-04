@@ -6,7 +6,7 @@
 
 > 📌 本仓库用于整理 **SSRDOG** 的官网注册入口、机场介绍、节点信息与使用体验，仅作信息整合与使用参考。  
 > ❗ 本仓库 **不提供任何代理服务、不售卖账号、不参与运营**，请在遵守当地法律法规的前提下自行选择与使用。
-> 📒 更新时间：2026-02-24
+> 📒 更新时间：2026-03-04
 
 ---
 
@@ -92,7 +92,7 @@ https://finalto.xyz/UKgLIq
 - 视频流媒体播放  
 - AI 工具长时间在线使用
 
-<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/refs/heads/main/9537.png" alt="ssrdog">
+<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/images/refs/heads/main/ssrdog-test-20260304.png" alt="ssrdog 测试图">
 
 ---
 
