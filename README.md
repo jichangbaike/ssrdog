@@ -8,7 +8,7 @@
 >
 > ❗ 本仓库 **不提供任何代理服务、不售卖账号、不参与运营**，请在遵守当地法律法规的前提下自行选择与使用。
 >
-> 📒 **更新时间：2026-03-10**
+> 📒 **更新时间：2026-04-04**
 
 ---
 
@@ -58,11 +58,11 @@ https://finalto.xyz/UKgLIq
 
 **套餐价格**
 
-- 轻量套餐：25.00/元，每月 150G 流量， 33 个节点，3个设备数，最高速度 300 Mbps
+- 轻量套餐：67.50 元/季付，每月 150G 流量， 33 个节点，3个设备数，最高速度 300 Mbps
 
-- 轻量套餐：35.00/元，每月 300G 流量， 33 个节点，3个设备数，最高速度 500 Mbps
+- 轻量套餐：94.50 元/季付，每月 300G 流量， 33 个节点，3个设备数，最高速度 500 Mbps
 
-- 企业套餐：85.00/元，每月 850G 流量， 67 个节点，3个设备数，最高速度 1000 Mbps
+- 企业套餐：202.50 元/季付，每月 850G 流量， 67 个节点，3个设备数，最高速度 1000 Mbps
 
 **优惠活动**
 
@@ -95,7 +95,7 @@ https://finalto.xyz/UKgLIq
 - 视频流媒体播放  
 - AI 工具长时间在线使用
 
-<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/refs/heads/main/images/ssrdog-test-20260304.png" alt="ssrdog 测试图">
+<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/refs/heads/main/images/ssrdog-test-20260403.png" alt="ssrdog 测试图">
 
 ---
 
