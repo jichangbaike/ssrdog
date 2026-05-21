@@ -8,7 +8,7 @@
 >
 > ❗ 本仓库 **不提供任何代理服务、不售卖账号、不参与运营**，请在遵守当地法律法规的前提下自行选择与使用。
 >
-> 📒 **更新时间：2026-05-03**
+> 📒 **更新时间：2026-05-21**
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -99,9 +99,9 @@ https://finalto.xyz/UKgLIq
 - 视频流媒体播放  
 - AI 工具长时间在线使用
 
-<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/refs/heads/main/images/ssrdog-test-20260503.png" alt="ssrdog 测试图">
+<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/refs/heads/main/images/ssrdog-test-20260521.png" alt="ssrdog 测试图">
 
-测试时间：2026-05-03， 网络情况：电信 2 Gbps
+测试时间：2026-05-21， 网络情况：电信 2 Gbps
 
 ---
 
@@ -205,5 +205,5 @@ https://finalto.xyz/UKgLIq
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-05-03`  
-- **Version:** `v1.1`
+- **Last Updated:** `2026-05-21`  
+- **Version:** `v1.2`
