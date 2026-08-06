@@ -8,7 +8,7 @@
 >
 > ❗ 本仓库 **不提供任何代理服务、不售卖账号、不参与运营**，请在遵守当地法律法规的前提下自行选择与使用。
 >
-> 📒 **更新时间：2026-06-19**
+> 📒 **更新时间：2026-08-06**
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -20,7 +20,7 @@
 ## 🚀 SSRDOG官网地址入口
 
 👉 **SSRDOG 官网直达：**  
-https://finalto.xyz/UKgLIq
+[点此进入 SSRDOG 官网](https://finalto.xyz/UKgLIq)
 
 > 建议优先选择短期套餐进行体验，再根据自身使用场景决定是否长期订阅。
 
@@ -92,9 +92,9 @@ https://finalto.xyz/UKgLIq
 - 视频流媒体播放  
 - AI 工具长时间在线使用
 
-<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/refs/heads/main/images/ssrdog-test-20260521.png" alt="ssrdog 测试图">
+<img src="https://raw.githubusercontent.com/jichangbaike/ssrdog/refs/heads/main/images/ssrdog-test-20260806.png" alt="ssrdog 测试图">
 
-测试时间：2026-05-21， 网络情况：电信 2 Gbps
+测试时间：2026-08-06， 网络情况：电信 2 Gbps
 
 ---
 
@@ -176,7 +176,7 @@ SSRDOG 在流媒体解锁方面覆盖较为全面：
 如果你正在寻找一个 **不折腾、可长期使用** 的机场，SSRDOG 是一个值得尝试的选择。
 
 👉 **SSRDOG 官网地址入口：**  
-https://finalto.xyz/UKgLIq
+[点此进入 SSRDOG 官网](https://finalto.xyz/UKgLIq)
 
 ---
 
@@ -198,5 +198,5 @@ https://finalto.xyz/UKgLIq
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-06-19`  
-- **Version:** `v1.3`
+- **Last Updated:** `2026-08-06`  
+- **Version:** `v1.4`
